@@ -1,0 +1,49 @@
+header{
+    background-color: orange;
+    width: 100%;
+    text-align: left;
+    padding: 20px 0 20px 20px;
+    height: 13em;
+}
+
+#logo{
+    float:left; 
+    display:block; 
+}
+
+#logo > img{
+    width: 200px;
+    height: 200px;
+}
+
+#title{
+    float:left; 
+    display:block; 
+    padding: 50px 0 0 50px;
+    font-size: 3em;
+}
+
+aside{
+    background-color: lightslategray;
+    width: 15%;
+    float: left;
+    display: block;
+    height: 30em;
+}
+
+main{
+    margin: 10px 0 0 10px;
+    float: left;
+    display: block;
+    height: 30em;
+    width: 80%;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+    font-weight: bold;
+    background-color: grey;
+    height: 4em;
+    padding: 1em 0 0 0;
+}
