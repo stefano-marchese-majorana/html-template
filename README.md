@@ -17,4 +17,4 @@ Progetto html da completare seguendo passo per passo i punti indicati in questo 
 1. nel codice HTML sono presenti degli errori formali nell'utilizzo dei tag, correggere questi errori
 1. commit & push in GitHub con commento "corretti errori html" (8)
 1. aggiungere al sito una modifica a piacere
-1. commit & push in GitHub con commento "progetto completato" (9 e 10)
+1. commit & push in GitHub con commento "progetto completato" (9)
