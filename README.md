@@ -2,7 +2,7 @@
 Progetto html da completare seguendo passo per passo i punti indicati in questo documento:
 1. cambiare il testo **MioSito.it** usando il vostro nome e cognome (nel mio caso MioSito.it deve diventare StefanoMarchese.it)
 1. commit & push in GitHub con commento "aggiornato indicazione sito" (1)
-1. correggere l'errore con impedisce di vedere il logo in alto a destra
+1. correggere l'errore con impedisce di vedere il logo in alto a sinistra
 1. commit & push in GitHub con commento "corretto errore visualizzazione logo" (2)
 1. sostituire tutte le occorrenze del testo **Tizio Incognito** con il proprio nome e cognome
 1. commit & push in GitHub con commento "aggiornato nome & cognome" (3)
